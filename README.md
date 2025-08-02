@@ -64,4 +64,4 @@ Los usuarios pueden ingresar los nombres de los participantes y el sistema selec
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/sorteador-amigo-secreto.git
+git clone https://github.com/NayeliSilva2322/amigo-secreto.git
