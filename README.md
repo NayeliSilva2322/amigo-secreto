@@ -1,7 +1,5 @@
 # 🎁 Sorteador de Amigo Secreto
 
-![Portada del Proyecto](./assets/portada.png)
-
 ---
 
 ## Insignias
@@ -53,10 +51,7 @@ Los usuarios pueden ingresar los nombres de los participantes y el sistema selec
 ## Demostración de Funciones y Aplicaciones
 
 ### Vista principal
-![Vista principal](./assets/demo-vista.png)
-
-### Ejemplo de sorteo
-![Sorteo en acción](./assets/demo-sorteo.gif)
+![Vista principal](./assets/Captura%20de%20pantalla%202025-08-02%20140841.png)
 
 ---
 
